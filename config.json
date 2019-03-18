@@ -1,0 +1,8 @@
+{
+  "secret": "008fffc8-8193-46eb-8976-00b5431b3f04",
+  "admin_password": "2570b1b7-852f-4c04-ab16-1e31b981a1ae",
+  "admin_secret": "a65b75d7-ceb9-44c8-ae44-023769d562c8",
+  "api_key": "634d57c8-ae82-42b7-b84d-266b724d2f19",
+  "admin": true,
+  "debug": true
+}
